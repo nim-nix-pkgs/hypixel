@@ -11,6 +11,7 @@
   inputs.src-hypixel-v0_3_1.ref   = "refs/tags/v0.3.1";
   inputs.src-hypixel-v0_3_1.owner = "tonogram";
   inputs.src-hypixel-v0_3_1.repo  = "hypixel-nim";
+  inputs.src-hypixel-v0_3_1.dir   = "";
   inputs.src-hypixel-v0_3_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
