@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1656297777,
-        "narHash": "sha256-stEZ2gHUZ+e2YLVH+65H+xkAsSbvkoGyyeXxXkfFmrs=",
+        "lastModified": 1656300946,
+        "narHash": "sha256-fYZUhVJ6LHMYWY/6u3BV8LKSPmm4CpMTCEJOo8B9y1U=",
         "owner": "nim-nix-pkgs",
         "repo": "hypixel",
-        "rev": "031cc4a1859f7012028e9e8784f7d910b5e14e57",
+        "rev": "f9248ece34a5acbf1f388055979bba5190d578d2",
         "type": "github"
       },
       "original": {
@@ -60,11 +60,11 @@
       },
       "locked": {
         "dir": "v0_2_0",
-        "lastModified": 1656297777,
-        "narHash": "sha256-stEZ2gHUZ+e2YLVH+65H+xkAsSbvkoGyyeXxXkfFmrs=",
+        "lastModified": 1656300946,
+        "narHash": "sha256-fYZUhVJ6LHMYWY/6u3BV8LKSPmm4CpMTCEJOo8B9y1U=",
         "owner": "nim-nix-pkgs",
         "repo": "hypixel",
-        "rev": "031cc4a1859f7012028e9e8784f7d910b5e14e57",
+        "rev": "f9248ece34a5acbf1f388055979bba5190d578d2",
         "type": "github"
       },
       "original": {
@@ -87,11 +87,11 @@
       },
       "locked": {
         "dir": "v0_2_1",
-        "lastModified": 1656297777,
-        "narHash": "sha256-stEZ2gHUZ+e2YLVH+65H+xkAsSbvkoGyyeXxXkfFmrs=",
+        "lastModified": 1656300946,
+        "narHash": "sha256-fYZUhVJ6LHMYWY/6u3BV8LKSPmm4CpMTCEJOo8B9y1U=",
         "owner": "nim-nix-pkgs",
         "repo": "hypixel",
-        "rev": "031cc4a1859f7012028e9e8784f7d910b5e14e57",
+        "rev": "f9248ece34a5acbf1f388055979bba5190d578d2",
         "type": "github"
       },
       "original": {
@@ -114,11 +114,11 @@
       },
       "locked": {
         "dir": "v0_2_2",
-        "lastModified": 1656297777,
-        "narHash": "sha256-stEZ2gHUZ+e2YLVH+65H+xkAsSbvkoGyyeXxXkfFmrs=",
+        "lastModified": 1656300946,
+        "narHash": "sha256-fYZUhVJ6LHMYWY/6u3BV8LKSPmm4CpMTCEJOo8B9y1U=",
         "owner": "nim-nix-pkgs",
         "repo": "hypixel",
-        "rev": "031cc4a1859f7012028e9e8784f7d910b5e14e57",
+        "rev": "f9248ece34a5acbf1f388055979bba5190d578d2",
         "type": "github"
       },
       "original": {
@@ -141,11 +141,11 @@
       },
       "locked": {
         "dir": "v0_2_3",
-        "lastModified": 1656297777,
-        "narHash": "sha256-stEZ2gHUZ+e2YLVH+65H+xkAsSbvkoGyyeXxXkfFmrs=",
+        "lastModified": 1656300946,
+        "narHash": "sha256-fYZUhVJ6LHMYWY/6u3BV8LKSPmm4CpMTCEJOo8B9y1U=",
         "owner": "nim-nix-pkgs",
         "repo": "hypixel",
-        "rev": "031cc4a1859f7012028e9e8784f7d910b5e14e57",
+        "rev": "f9248ece34a5acbf1f388055979bba5190d578d2",
         "type": "github"
       },
       "original": {
@@ -168,11 +168,11 @@
       },
       "locked": {
         "dir": "v0_3_0",
-        "lastModified": 1656297777,
-        "narHash": "sha256-stEZ2gHUZ+e2YLVH+65H+xkAsSbvkoGyyeXxXkfFmrs=",
+        "lastModified": 1656300946,
+        "narHash": "sha256-fYZUhVJ6LHMYWY/6u3BV8LKSPmm4CpMTCEJOo8B9y1U=",
         "owner": "nim-nix-pkgs",
         "repo": "hypixel",
-        "rev": "031cc4a1859f7012028e9e8784f7d910b5e14e57",
+        "rev": "f9248ece34a5acbf1f388055979bba5190d578d2",
         "type": "github"
       },
       "original": {
@@ -195,11 +195,11 @@
       },
       "locked": {
         "dir": "v0_3_1",
-        "lastModified": 1656297777,
-        "narHash": "sha256-stEZ2gHUZ+e2YLVH+65H+xkAsSbvkoGyyeXxXkfFmrs=",
+        "lastModified": 1656300946,
+        "narHash": "sha256-fYZUhVJ6LHMYWY/6u3BV8LKSPmm4CpMTCEJOo8B9y1U=",
         "owner": "nim-nix-pkgs",
         "repo": "hypixel",
-        "rev": "031cc4a1859f7012028e9e8784f7d910b5e14e57",
+        "rev": "f9248ece34a5acbf1f388055979bba5190d578d2",
         "type": "github"
       },
       "original": {
@@ -222,11 +222,11 @@
       },
       "locked": {
         "dir": "v0_3_2",
-        "lastModified": 1656297777,
-        "narHash": "sha256-stEZ2gHUZ+e2YLVH+65H+xkAsSbvkoGyyeXxXkfFmrs=",
+        "lastModified": 1656300946,
+        "narHash": "sha256-fYZUhVJ6LHMYWY/6u3BV8LKSPmm4CpMTCEJOo8B9y1U=",
         "owner": "nim-nix-pkgs",
         "repo": "hypixel",
-        "rev": "031cc4a1859f7012028e9e8784f7d910b5e14e57",
+        "rev": "f9248ece34a5acbf1f388055979bba5190d578d2",
         "type": "github"
       },
       "original": {
